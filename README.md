@@ -1,4 +1,5 @@
 Sales Dashboard Summary
+
 🧮 Key Performance Indicators (KPIs)
 Max Value of Amount: ₹9914
 
